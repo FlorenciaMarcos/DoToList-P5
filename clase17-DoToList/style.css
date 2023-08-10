@@ -1,0 +1,78 @@
+body {
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+    background-color: #20204b;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Verdana, sans-serif;
+      margin: 5px;
+      padding-top: 0px;
+      padding-bottom: 0px;
+      padding-left: 20px;
+      padding-top: 20px;
+
+
+
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .input-div {
+    display: inline-block;
+  }
+  
+  .input {
+    width: 450px;
+    height: 50px;
+    margin: 5px;
+    padding: 0px 20px;
+    border-radius: 10px;
+    border-color: #79745c;
+    font-size: 18px;
+    background-color: #faf4d3;
+  }
+  
+  .input:hover {
+    opacity: 0.9;
+    border: 2px, solid, #a19d85;
+  }
+  
+  .input-invalid {
+    border: 2px, solid, rgb(161, 4, 4);
+  }
+  
+  .boton-agregar {
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(255, 6, 46);
+  }
+  
+  .boton-agregar:hover {
+    opacity: 0.9;
+    border: 2px, solid, #5a7c95;
+  }
+  
+
+  
+  
+  .item {
+    margin-bottom: 5px;
+    
+    
+  }  
+  .boton-editar:hover {
+    opacity: 0.9;
+    border: 2px, solid, #5a7c95;
+  }
+  
+
+  
+  .boton-remover:hover {
+    opacity: 0.9;
+    border: 2px, solid, #5a7c95;
+  }
